@@ -27,11 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Dr Guillaume Candela
+I'm an Honorary Research Fellow at the School of Geography and Planning, Cardiff University, where I intend to lead the AHRC project "Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences." I'm also affiliated with the Centre de recherches sur les mondes Américains (EHESS, France) and collaborate with Lancaster University's New Spain Fleets project in training HTR models.
 
-I'm a Project Leader and Honorary Research Fellow at the School of Geography and Planning, Cardiff University, where I intend to lead the AHRC project "Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences." I'm also affiliated with the Centre de recherches sur les mondes Américains (EHESS, France) and collaborate with Lancaster University's New Spain Fleets project in training HTR models.
-
-My research focuses on early colonial Paraguay, Indigenous history, and digital humanities. I develop AI-driven methodologies to analyse colonial slavery and forced labour systems, particularly examining the experiences of enslaved Indigenous, African, and Afro-descendant peoples in 16th-19th century Paraguay. I combine Spanish palaeography expertise with cutting-edge technologies like Handwritten Text Recognition and spatial analysis to uncover hidden historical narratives.
+My research focuses on early colonial Paraguay, Indigenous history, and digital humanities. I develop AI-driven methodologies to analyse colonial slavery and forced labour systems, particularly examining the experiences of enslaved Indigenous, African, and Afro-descendant peoples in 16th-19th-century Paraguay. I combine Spanish palaeography expertise with cutting-edge technologies like Handwritten Text Recognition and spatial analysis to uncover hidden historical narratives.
 
 Previously, I was a Senior Research Associate for the Native Bound-Unbound Archive of Indigenous Slavery Project (2022-2024) and a Teaching Fellow in Colonial Latin American History at the University of Leeds. I served as a CLIR Postdoctoral Fellow for Data Curation at the John Carter Brown Library at Brown University (2019-2020), where I developed the groundbreaking Indigenous Languages digital project. I've also held policy positions with Paraguay's National Secretariat of Culture (2017-2019) as a Counsellor, where I led UNESCO's Indigenous Languages Year organisation and, more recently, assisted in repatriating stolen 16th-century manuscripts—work recognised by Paraguay's President.
 
