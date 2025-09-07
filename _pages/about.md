@@ -27,29 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Dr Guillaume Candela** is the world's leading expert in early colonial Paraguay and a historian specialising in Indigenous History, Tupi-Guarani Studies, Spanish palaeography, and digital humanities. He was a CLIR Postdoctoral Fellow for Data Curation at the John Carter Brown Library at Brown University (2019-2020), where he developed the groundbreaking Indigenous Languages digital project that reshaped international data curation standards.
+# Dr Guillaume Candela
 
-### Current Roles & Recent Achievements
+I'm a Project Leader and Honorary Research Fellow at the School of Geography and Planning, Cardiff University, where I intend to lead the AHRC project "Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences." I'm also affiliated with the Centre de recherches sur les mondes Américains (EHESS, France) and collaborate with Lancaster University's New Spain Fleets project in training HTR models.
 
-Candela recently served as a scientific consultant for Paraguay's National Secretariat of Culture, where he assisted in repatriating 16th-century manuscripts stolen from the United States—work personally recognised by Paraguay's President, Santiago Peña. In 2024, he developed the digital initiative **Indigenous Echoes** (5300+ followers) and served as:
+My research focuses on early colonial Paraguay, Indigenous history, and digital humanities. I develop AI-driven methodologies to analyse colonial slavery and forced labour systems, particularly examining the experiences of enslaved Indigenous, African, and Afro-descendant peoples in 16th-19th century Paraguay. I combine Spanish palaeography expertise with cutting-edge technologies like Handwritten Text Recognition and spatial analysis to uncover hidden historical narratives.
 
-- **Senior Research Associate** for Native Bound-Unbound Archive of Indigenous Slavery Project (2022-2024)
-- **Collaborator** with the New Spain Fleets HTR project (2024-2025)
+Previously, I was a Senior Research Associate for the Native Bound-Unbound Archive of Indigenous Slavery Project (2022-2024) and a Teaching Fellow in Colonial Latin American History at the University of Leeds. I served as a CLIR Postdoctoral Fellow for Data Curation at the John Carter Brown Library at Brown University (2019-2020), where I developed the groundbreaking Indigenous Languages digital project. I've also held policy positions with Paraguay's National Secretariat of Culture (2017-2019) as a Counsellor, where I led UNESCO's Indigenous Languages Year organisation and, more recently, assisted in repatriating stolen 16th-century manuscripts—work recognised by Paraguay's President.
 
-### Research & Publications
-
-His recent publications, including his last **2024 paper on Indigenous and African enslavement in colonial Paraguay**, explore diverse themes such as:
-
-- Slavery and Forced Labour
-- Tupi-Guarani History
-- Afro-Paraguayan History
-- Colonialism
-- Missionary linguistics
-- Social history
-- Women's history
-
-His multidisciplinary approach focuses on understanding the impact of colonisation on Indigenous, African, and Afro-descendant peoples.
-
-### International Experience & Leadership
-
-Fluent and Advanced in **five languages** (Spanish, French, English, Portuguese, Guarani), he serves on UKLAH's executive board and has coordinated international research across six countries. He holds a **PhD in Hispanic and Latin American Studies from Sorbonne Nouvelle University** and has lived, taught, and conducted policy work in France, Spain, Argentina, Brazil, Paraguay, USA, and UK.
+I completed my PhD in Hispanic and Latin American Studies at Sorbonne Nouvelle University, my BA and MA at Aix-Marseille University, and spent time at Universidad de Granada through the ERASMUS program. I'm fluent and advanced in five languages (Spanish, French, English, Portuguese, Guarani) and serve on UKLAH's executive board. I've conducted research and taught across six countries and maintain the Indigenous Echoes social media initiative with over 5,300 followers.
