@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Dr
+title: Honorary Research Fellow
 permalink: Guillaume Candela/
-subtitle: <a href='#'>Cardiff University</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Cardiff University</a>. College of Arts, Humanities and Social Sciences. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,26 +27,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Dr Guillaume Candela** is the world's leading expert in Early Colonial Paraguay and a historian specializing in Indigenous History, Tupi-Guarani Studies, Spanish paleography, and digital humanities. He was a CLIR Postdoctoral Fellow for Data Curation at the John Carter Brown Library at Brown University (2019-2020), where he developed the groundbreaking Indigenous Languages digital project that reshaped international data curation standards.
+**Dr Guillaume Candela** is the world's leading expert in early colonial Paraguay and a historian specialising in Indigenous History, Tupi-Guarani Studies, Spanish palaeography, and digital humanities. He was a CLIR Postdoctoral Fellow for Data Curation at the John Carter Brown Library at Brown University (2019-2020), where he developed the groundbreaking Indigenous Languages digital project that reshaped international data curation standards.
 
 ### Current Roles & Recent Achievements
 
-Candela currently serves as scientific consultant for Paraguay's National Secretariat of Culture, where he recently assisted in repatriating stolen 16th-century manuscripts from the United States—work personally recognized by Paraguay's President Santiago Peña Palacios. He developed the digital initiative **Indigenous Echoes** (5300+ followers) and currently serves as:
+Candela recently served as a scientific consultant for Paraguay's National Secretariat of Culture, where he assisted in repatriating 16th-century manuscripts stolen from the United States—work personally recognised by Paraguay's President, Santiago Peña. In 2024, he developed the digital initiative **Indigenous Echoes** (5300+ followers) and served as:
 
-- **Senior Research Associate** for Native Bound-Unbound Archive of Indigenous Slavery Project
-- **Collaborator** with the New Spain Fleets HTR project
+- **Senior Research Associate** for Native Bound-Unbound Archive of Indigenous Slavery Project (2022-2024)
+- **Collaborator** with the New Spain Fleets HTR project (2024-2025)
 
 ### Research & Publications
 
-His recent publications, including his influential **2024 paper on Indigenous and African enslavement in colonial Paraguay**, explore diverse themes such as:
+His recent publications, including his last **2024 paper on Indigenous and African enslavement in colonial Paraguay**, explore diverse themes such as:
 
-- Tupí-Guaraní history
-- Colonialism and missionary linguistics
-- Social history and women's history
-- Religious history
+- Slavery and Forced Labour
+- Tupi-Guarani History
+- Afro-Paraguayan History
+- Colonialism
+- Missionary linguistics
+- Social history
+- Women's history
 
-His multidisciplinary approach focuses on understanding colonization's impact on Indigenous, African, and Afro-descent peoples.
+His multidisciplinary approach focuses on understanding the impact of colonisation on Indigenous, African, and Afro-descendant peoples.
 
 ### International Experience & Leadership
 
-Fluent in **five languages** (Spanish, French, English, Portuguese, Guarani), he serves on UKLAH's executive board and has coordinated international research across six countries. He holds a **PhD in Hispanic and Latin American Studies from Sorbonne University** and has lived, taught, and conducted policy work in France, Spain, Paraguay, USA, and UK.
+Fluent and Advanced in **five languages** (Spanish, French, English, Portuguese, Guarani), he serves on UKLAH's executive board and has coordinated international research across six countries. He holds a **PhD in Hispanic and Latin American Studies from Sorbonne Nouvelle University** and has lived, taught, and conducted policy work in France, Spain, Argentina, Brazil, Paraguay, USA, and UK.
