@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: Guillaume Candela/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 **Dr Guillaume Candela** is the world's leading expert in Early Colonial Paraguay and a historian specializing in Indigenous History, Tupi-Guarani Studies, Spanish paleography, and digital humanities. He was a CLIR Postdoctoral Fellow for Data Curation at the John Carter Brown Library at Brown University (2019-2020), where he developed the groundbreaking Indigenous Languages digital project that reshaped international data curation standards.
 
 ### Current Roles & Recent Achievements
