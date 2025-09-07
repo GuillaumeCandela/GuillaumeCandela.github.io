@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Honorary Research Fellow
-permalink: Guillaume Candela/
-subtitle: <a href='#'>Cardiff University</a>. College of Arts, Humanities and Social Sciences. Contacts. Motto. Etc.
+title: about
+permalink: /
+subtitle: <a href='#'>Cardiff University</a>. College of Arts, Humanities and Social Sciences.
 
 profile:
   align: right
