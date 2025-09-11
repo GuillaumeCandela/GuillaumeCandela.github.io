@@ -12,6 +12,11 @@ I share my research and findings through [Indigenous Echoes](https://www.faceboo
 
 My 2018 book *Entre la pluma y la cruz* was selected as one of the best cultural items of the year by *El Tiempo de Bogotá* (Colombia). I regularly contribute to peer-reviewed journals, serve as a reviewer for multiple academic publications, and consult for V-Dem (Varieties of Democracy) project and UNESCO initiatives.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Put your Cardiff University
+Glamorgan Building 
+King Edward VII Avenue
+Cardiff CF10 3WA
+Wales, United Kingdom. 
+You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Connect with me on social media to follow my latest research on Indigenous history and colonial studies. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Bluesky, LinkedIn, Google Scholar, or just disable all of them.
+Connect with me on social media to follow my latest research on Indigenous history and colonial studies.[Facebook]((https://www.facebook.com/guillaume.candela.5)), [Bluesky](https://bsky.app/profile/guillaumecandela.bsky.social), [LinkedIn] (https://www.linkedin.com/in/guillaume-candela-0446201a/?originalSubdomain=gf).
