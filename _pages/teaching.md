@@ -11,7 +11,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
 
 ---
 
-## **Current & Recent Teaching (2022-2024)**
+## **Recent Teaching (2022-2024)**
 
 ### **University of Leeds, UK** (2022-2023)
 *Teaching Fellow in Colonial Latin American History*
