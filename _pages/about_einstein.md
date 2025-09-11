@@ -12,7 +12,7 @@ I share my research and findings through [Indigenous Echoes](https://www.faceboo
 
 My 2018 book *Entre la pluma y la cruz* was selected as one of the best cultural items of the year by *El Tiempo de Bogotá* (Colombia). I regularly contribute to peer-reviewed journals, serve as a reviewer for multiple academic publications, and consult for V-Dem (Varieties of Democracy) project and UNESCO initiatives.
 
-Put your Cardiff University
+Cardiff University
 Glamorgan Building 
 King Edward VII Avenue
 Cardiff CF10 3WA
