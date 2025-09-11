@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Courses and educational activities spanning colonial Latin American history, Indigenous studies, digital humanities, and language instruction across multiple universities and countries.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
