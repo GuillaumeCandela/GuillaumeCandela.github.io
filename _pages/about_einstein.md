@@ -16,7 +16,6 @@ Put your Cardiff University
 Glamorgan Building 
 King Edward VII Avenue
 Cardiff CF10 3WA
-Wales, United Kingdom. 
-You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Wales, United Kingdom.
 
-Connect with me on social media to follow my latest research on Indigenous history and colonial studies.[Facebook]((https://www.facebook.com/guillaume.candela.5)), [Bluesky](https://bsky.app/profile/guillaumecandela.bsky.social), [LinkedIn] (https://www.linkedin.com/in/guillaume-candela-0446201a/?originalSubdomain=gf).
+Connect with me on social media to follow my latest research on Indigenous history and colonial studies. [Facebook](https://www.facebook.com/guillaume.candela.5), [Bluesky](https://bsky.app/profile/guillaumecandela.bsky.social), [LinkedIn](https://www.linkedin.com/in/guillaume-candela-0446201a/?originalSubdomain=gf).
