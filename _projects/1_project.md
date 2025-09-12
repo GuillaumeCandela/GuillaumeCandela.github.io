@@ -15,7 +15,7 @@ During my CLIR Postdoctoral Fellowship at the John Carter Brown Library (2019-20
         {% include figure.liquid loading="eager" path="assets/img/JCB_book1.png" title="16th century manuscripts" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JCB_project.jpeg" title="Language distribution map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JCB_project.jpg" title="Language distribution map" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/JCB1.jpg" title="Digital catalog interface" class="img-fluid rounded z-depth-1" %}
