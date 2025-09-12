@@ -1,200 +1,287 @@
 {
   "basics": {
-    "name": "Guillaume Candela",
-    "label": "Historian and Digital Humanist",
+    "name": "Dr. Guillaume Candela",
+    "label": "Historical Researcher and Digital Humanist",
     "image": "",
-    "email": "guillaume.candela.gc@gmail.com",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "CandelaG@cardiff.ac.uk",
+    "url": "https://guillaumecandela.github.io/",
+    "summary": "Honorary Senior Research Fellow at Cardiff University specializing in early colonial Paraguay, Indigenous history, and AI-driven digital humanities. Expert in Spanish paleography with 15+ years of international research experience across six countries.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Facebook",
+        "username": "Indigenous Echoes",
+        "url": "https://www.facebook.com/profile.php?id=61556216985777"
+      },
+      {
+        "network": "Bluesky",
+        "username": "indigenousechoes",
+        "url": "https://bsky.app/profile/indigenousechoes.bsky.social"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Cardiff University",
+      "position": "Honorary Senior Research Fellow",
+      "url": "https://www.cardiff.ac.uk/geography-planning",
+      "startDate": "2024-06-01",
+      "summary": "Developing the AHRC project proposal 'Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences' (under evaluation). Merging slavery studies with AI and data mining to transform colonial slavery research.",
+      "highlights": ["AI-driven historical analysis", "Colonial slavery research", "Digital humanities methodology"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Centre de recherches sur les mondes Américains (EHESS)",
+      "position": "Research Associate Fellow",
+      "url": "https://www.ehess.fr/",
+      "startDate": "2024-01-01",
+      "summary": "Research fellowship at leading French institution for advanced social science research.",
+      "highlights": ["Advanced research collaboration", "International partnerships"]
+    },
+    {
+      "name": "Lancaster University",
+      "position": "Research Collaborator - New Spain Fleets Project",
+      "url": "https://wp.lancs.ac.uk/newspainfleets/",
+      "startDate": "2024-05-01",
+      "summary": "Spanish Palaeography and Digital Humanities expert applying AI methods including Handwritten Text Recognition through Transkribus platform.",
+      "highlights": ["HTR technology", "Spanish paleography", "Colonial archive analysis"]
+    },
+    {
+      "name": "University of Leeds",
+      "position": "Teaching Fellow in Colonial Latin American History",
+      "url": "https://www.leeds.ac.uk/",
+      "startDate": "2022-09-01",
+      "endDate": "2023-08-31",
+      "summary": "Module Leader for Gender and Slavery in Latin America, and Sin in Spanish America. Taught undergraduate and graduate courses on colonial history.",
+      "highlights": ["Course leadership", "Graduate teaching", "Paleography workshops"]
+    },
+    {
+      "name": "School for Advanced Research",
+      "position": "Senior Research Associate - Native Bound Unbound",
+      "url": "https://nativeboundunbound.org/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-12-31",
+      "summary": "Created open-source central repository on enslaved Indigenous Peoples in the Americas. $1.5M Mellon Foundation Grant project.",
+      "highlights": ["$1.5M grant management", "Digital archive creation", "Indigenous community collaboration"]
+    },
+    {
+      "name": "Brown University - John Carter Brown Library",
+      "position": "CLIR Postdoctoral Fellow for Data Curation",
+      "url": "https://www.brown.edu/academics/libraries/john-carter-brown/",
+      "startDate": "2019-07-01",
+      "endDate": "2020-08-31",
+      "summary": "Created groundbreaking Latin American and Caribbean Indigenous Languages digital project that reshaped international data curation standards.",
+      "highlights": ["Digital project creation", "International standards", "Indigenous language preservation"]
+    },
+    {
+      "name": "Secretaría Nacional de Cultura del Paraguay",
+      "position": "Ministry Counsellor",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-31",
+      "summary": "Led UNESCO Indigenous Languages Year 2019 organization in Paraguay. Organized international scholarly workshops and community meetings with Indigenous peoples.",
+      "highlights": ["UNESCO coordination", "International event organization", "Cultural policy development"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Université Sorbonne-Nouvelle Paris III",
+      "location": "Paris, France",
+      "url": "https://www.sorbonne-nouvelle.fr/",
+      "area": "Hispanic and Latin American Studies",
+      "studyType": "Ph.D.",
+      "startDate": "2009-01-01",
+      "endDate": "2016-12-31",
+      "courses": ["The Settlement of a marginal society - Letters and Actions of the clergy during the Conquest of Paraguay (1537-1580)", "Director: Prof. Bernard Lavallé"]
+    },
+    {
+      "institution": "Université Aix-Marseille",
+      "location": "Marseille, France",
+      "area": "Hispanic and Latin American Studies",
+      "studyType": "MA",
+      "startDate": "2007-01-01",
+      "endDate": "2009-12-31",
+      "courses": ["The Conquest of Paraguay through Domingo Martínez de Irala's letters (1545-1555)", "Director: Prof. Gérard Gomez"]
+    },
+    {
+      "institution": "Universidad de Granada",
+      "location": "Granada, Spain",
+      "area": "ERASMUS Student Exchange Program",
+      "studyType": "Exchange",
+      "startDate": "2005-01-01",
+      "endDate": "2006-12-31"
+    },
+    {
+      "institution": "Université Aix-Marseille",
+      "location": "Marseille, France",
+      "area": "Hispanic and Latin American Studies",
+      "studyType": "BA",
+      "startDate": "2004-01-01",
+      "endDate": "2007-12-31",
+      "courses": ["Language, Literature, and Cultures specialization"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Presidential Recognition for Manuscript Repatriation",
+      "date": "2024-01-01",
+      "awarder": "President Santiago Peña Palacios, Republic of Paraguay",
+      "summary": "Personal recognition by Paraguay's President for scientific consulting on repatriating stolen 16th-century manuscripts from the United States."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Best Cultural Item of the Year",
+      "date": "2018-12-31",
+      "awarder": "El Tiempo de Bogotá, Colombia",
+      "summary": "Book 'Entre la pluma y la cruz' selected as one of the best cultural items of 2018."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "CLIR Postdoctoral Fellowship",
+      "date": "2019-07-01",
+      "awarder": "Council on Library and Information Resources",
+      "summary": "Competitive fellowship for data curation in Latin American and Caribbean Indigenous Languages at Brown University."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Mellon Foundation Grant",
+      "date": "2022-10-01",
+      "awarder": "Andrew W. Mellon Foundation",
+      "summary": "Senior Research Associate on $1.5M grant for Native Bound Unbound: Archive of Indigenous Slavery project."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "El Paraguay colonial, ¿una 'isla rodeada de tierra'? Movimientos transcontinentales y transoceánicos en la ciudad de Asunción (siglos XVI-XVII)",
+      "publisher": "Revista Historia Autónoma",
+      "releaseDate": "2024-01-01",
+      "url": "https://doi.org/10.15366/rha2024.25.002",
+      "summary": "Questions the traditional view of colonial Paraguay as isolated, examining transcontinental movements through Asunción in the 16th-17th centuries."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "The 'mujeres enamoradas': Prostitution, Amancebamiento and Marriage in Sixteenth-Century Rio de la Plata",
+      "publisher": "Revista Estudios Paraguayos",
+      "releaseDate": "2023-01-01",
+      "url": "https://doi.org/10.47133/respy26002301art05",
+      "summary": "Examines the role of women in conquest society, analyzing prostitution, informal unions, and marriage patterns."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Entre la pluma y la cruz - El clérigo Martín González y la desconocida historia de su defensa de los indios del Paraguay",
+      "publisher": "Editorial Tiempo de Historia",
+      "releaseDate": "2018-01-01",
+      "summary": "Transcribes and studies letters of priest Martín González who defended the Guarani from Spanish abuses (1542-1564)."
+    },
+    {
+      "name": "Lenguas y pueblos tupí-guaraníes en las fuentes de los siglos XVI y XVII",
+      "publisher": "Mélanges de la Casa de Velázquez",
+      "releaseDate": "2015-01-01",
+      "url": "https://doi.org/10.4000/mcv.6129",
+      "summary": "Foundational study examining Tupí-Guaraní languages and peoples in 16th-17th century sources with Bartomeu Melià."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Digital Humanities",
+      "level": "Expert",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Handwritten Text Recognition (HTR)",
+        "Transkribus Platform",
+        "AI-driven historical analysis",
+        "Digital archive creation",
+        "Spatial analysis",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Historical Research",
+      "level": "Expert",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Spanish Paleography",
+        "Colonial Latin American History",
+        "Indigenous History",
+        "Archival Research",
+        "Manuscript Analysis",
+        "Primary Source Investigation"
+      ]
+    },
+    {
+      "name": "Academic Leadership",
+      "level": "Advanced",
+      "icon": "fa-solid fa-users",
+      "keywords": [
+        "Project Management",
+        "International Collaboration",
+        "Community Engagement",
+        "Grant Writing",
+        "Conference Organization",
+        "Editorial Work"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "🇫🇷"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker", 
+      "icon": "🇪🇸"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "🇬🇧"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Advanced",
+      "icon": "🇵🇹"
+    },
+    {
+      "language": "Guarani",
+      "fluency": "Intermediate",
+      "icon": "🇵🇾"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Indigenous Studies",
+      "icon": "fa-solid fa-feather",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Tupi-Guarani peoples",
+        "Indigenous slavery systems",
+        "Decolonizing methodologies",
+        "Community collaboration",
+        "Cultural preservation",
+        "Indigenous epistemologies"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Digital Innovation",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "AI in historical research",
+        "Digital archives",
+        "Social media outreach",
+        "Technology ethics",
+        "Open-source development",
+        "Data visualization"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Indigenous Echoes",
+      "summary": "Social media initiative promoting Indigenous history and decolonizing historical narratives with 5,300+ followers across Facebook and Bluesky.",
+      "highlights": ["Public engagement", "Social media strategy", "Historical education"],
+      "startDate": "2024-01-01",
+      "url": "https://www.facebook.com/profile.php?id=61556216985777"
+    },
+    {
+      "name": "Latin American and Caribbean Indigenous Languages Digital Project",
+      "summary": "Groundbreaking digital project at JCB that reshaped international data curation standards for Indigenous materials.",
+      "highlights": ["International standards", "Community collaboration", "Digital preservation"],
+      "startDate": "2019-07-01",
+      "endDate": "2020-08-31",
+      "url": "https://drive.google.com/open?id=1BHf-9nZ6ugSN0uylvSr7rrxBKmaYg4SU&usp=sharing"
     }
   ]
 }
