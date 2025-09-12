@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses and educational activities spanning colonial Latin American history, Indigenous studies, digital humanities, and language instruction across multiple universities and countries.
 nav: true
 nav_order: 6
@@ -230,7 +230,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
         <div class="row mt-3">
           <div class="col-12">
             <h6 class="card-title">Additional Responsibilities</h6>
-            <p class="small">Curriculum development for Latin American Civilization courses and Spanish language course content revision.</p>
+            <p class="small">Curriculum development for Latin America History courses and Spanish language courses content revision.</p>
           </div>
         </div>
       </div>
