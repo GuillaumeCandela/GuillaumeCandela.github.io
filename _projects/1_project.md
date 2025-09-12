@@ -12,13 +12,13 @@ During my CLIR Postdoctoral Fellowship at the John Carter Brown Library (2019-20
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/jcb_manuscripts.jpg" title="16th century manuscripts" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JCB_book1.jpg" title="16th century manuscripts" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/indigenous_languages_map.jpg" title="Language distribution map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JCB_project.jpg" title="Language distribution map" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/digital_catalog.jpg" title="Digital catalog interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JCB1.jpg" title="Digital catalog interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ This comprehensive digital initiative catalogued and digitized hundreds of histo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/community_workshop.jpg" title="Community workshop" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JCB_workshop3.jpg" title="Community workshop" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,10 +48,10 @@ This comprehensive digital initiative catalogued and digitized hundreds of histo
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/jcb_exhibition.jpg" title="Paper Worlds exhibition" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/JCB_workshop1.jpg" title="Paper Worlds exhibition" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/workshop_materials.jpg" title="Workshop materials" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/JCB_workshop4.jpg" title="Workshop materials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
