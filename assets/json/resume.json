@@ -89,7 +89,10 @@
       "studyType": "Ph.D.",
       "startDate": "2009-01-01",
       "endDate": "2016-12-31",
-      "courses": ["The Settlement of a marginal society - Letters and Actions of the clergy during the Conquest of Paraguay (1537-1580)", "Director: Prof. Bernard Lavallé"]
+      "courses": [
+        "The Settlement of a marginal society - Letters and Actions of the clergy during the Conquest of Paraguay (1537-1580)",
+        "Director: Prof. Bernard Lavallé"
+      ]
     },
     {
       "institution": "Université Aix-Marseille",
@@ -222,7 +225,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Native speaker", 
+      "fluency": "Native speaker",
       "icon": "🇪🇸"
     },
     {
