@@ -88,7 +88,7 @@ _Language Instructor - Department of Modern Languages_
 - Curriculum revision for French language courses
 - Assessment and marking (Years 1-3)
 - Department meeting participation
-  
+
 ## **Early Career Teaching (2008-2015)**
 
 ### **Université François-Rabelais Tours, France** (2012-2015)
