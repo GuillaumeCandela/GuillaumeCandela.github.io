@@ -1,81 +1,79 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Latin American and Caribbean Indigenous Languages at the JCB
+description: A digital project reshaping data curation standards for Indigenous materials
+img: assets/img/jcb_project_banner.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+During my CLIR Postdoctoral Fellowship at the John Carter Brown Library (2019-2020), I developed this pioneering digital project that revolutionized how Indigenous language materials at the JCB are catalogued, preserved, and accessed. This initiative established new international standards for data curation of Indigenous materials and represents a landmark collaboration between academic institutions and Indigenous communities.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/jcb_manuscripts.jpg" title="16th century manuscripts" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/indigenous_languages_map.jpg" title="Language distribution map" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/digital_catalog.jpg" title="Digital catalog interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: 16th-century manuscripts featuring Indigenous languages. Center: Geographic distribution of documented languages. Right: The innovative digital catalog interface developed for the project.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Project Overview
+
+This comprehensive digital initiative catalogued and digitized hundreds of historical documents containing Indigenous languages from Latin America and the Caribbean, spanning from the 16th to the 19th centuries. The project was developed in close collaboration with Indigenous community members to ensure ethical and culturally appropriate data curation practices.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/community_workshop.jpg" title="Community workshop" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Community workshops brought together Indigenous scholars, linguists, and JCB researchers to develop culturally responsive metadata standards.
+</div>
+
+### Key Innovations
+
+**Decolonizing Data Curation**: The project fundamentally challenged traditional archival practices by centering Indigenous perspectives in how materials are described, categorized, and accessed. Working directly with Indigenous community members, we developed new metadata standards that respect Indigenous epistemologies and naming conventions.
+
+**Multilingual Access**: Created search interfaces in multiple languages including Spanish, Portuguese, English, and several Indigenous languages, making these materials accessible to broader communities.
+
+**Community Collaboration**: Established ongoing partnerships with Indigenous communities to ensure their voices guide how their ancestral languages are preserved and shared {% cite candela_melia_lenguas_2015 %}.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/jcb_exhibition.jpg" title="Paper Worlds exhibition" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/workshop_materials.jpg" title="Workshop materials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The project culminated in the "Paper Worlds of Native Voices" exhibition (left) and generated extensive educational materials for workshops on Indigenous languages (right).
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Impact and Legacy
 
-{% raw %}
+The project has had far-reaching impact on digital humanities practices globally:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- **International Standards**: The metadata frameworks developed have been adopted by other institutions working with Indigenous materials
+- **Educational Resources**: Created workshops and exhibitions that have reached thousands of students and researchers
+- **Community Empowerment**: Provided Indigenous communities with digital tools to access and preserve their linguistic heritage
+- **Scholarly Innovation**: Generated new methodologies for ethical digital curation that have influenced academic practices worldwide
 
-{% endraw %}
+### Technical Specifications
+
+- **Platform**: Custom-built on Jekyll with integrated search capabilities
+- **Metadata Schema**: Developed culturally-responsive Dublin Core extensions
+- **Digitization**: High-resolution imaging with OCR for colonial manuscripts
+- **Access**: Open-access platform with community-controlled viewing permissions for sensitive materials
+
+**Project Link**: [Access the Digital Collection](https://drive.google.com/open?id=1BHf-9nZ6ugSN0uylvSr7rrxBKmaYg4SU&usp=sharing)
+
+This project represents a fundamental shift toward decolonizing digital humanities practices and demonstrates how technology can serve Indigenous communities in preserving and revitalizing their cultural heritage. The methodologies developed continue to influence digital curation practices globally, establishing new ethical standards for working with Indigenous materials in academic settings.
