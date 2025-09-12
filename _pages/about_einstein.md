@@ -10,10 +10,12 @@ I completed my PhD in Hispanic and Latin American Studies at Sorbonne University
 
 I share my research and findings through [Indigenous Echoes](https://www.facebook.com/profile.php?id=61556216985777), my social media initiative dedicated to promoting Indigenous history and decolonizing historical narratives, reaching over 5,300 followers across [Facebook](https://www.facebook.com/profile.php?id=61556216985777) and [Bluesky](https://bsky.app/profile/indigenousechoes.bsky.social). You can also find my academic work on [Academia.edu](https://cardiff.academia.edu/GuillaumeCandela), where I regularly share research papers and engage with the academic community.
 
-My 2018 book *Entre la pluma y la cruz* was selected as one of the best cultural items of the year by *El Tiempo de Bogotá* (Colombia). I regularly contribute to peer-reviewed journals, serve as a reviewer for multiple academic publications, and consult for V-Dem (Varieties of Democracy) project and UNESCO initiatives.
+I share my research and findings through [Indigenous Echoes](https://www.facebook.com/profile.php?id=61556216985777), my social media initiative dedicated to promoting Indigenous history and decolonizing historical narratives, reaching over 5,300 followers across [Facebook](https://www.facebook.com/profile.php?id=61556216985777) and [Bluesky](https://bsky.app/profile/indigenousechoes.bsky.social). You can also find my academic work on [Academia.edu](https://cardiff.academia.edu/GuillaumeCandela), where I regularly share research papers and engage with the academic community.
+
+My 2018 book _Entre la pluma y la cruz_ was selected as one of the best cultural items of the year by _El Tiempo de Bogotá_ (Colombia). I regularly contribute to peer-reviewed journals, serve as a reviewer for multiple academic publications, and consult for V-Dem (Varieties of Democracy) project and UNESCO initiatives.
 
 Cardiff University
-Glamorgan Building 
+Glamorgan Building
 King Edward VII Avenue
 Cardiff CF10 3WA
 Wales, United Kingdom.
