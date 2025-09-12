@@ -2,8 +2,8 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-academia_edu: https://cardiff.academia.edu/GuillaumeCandela
-organization: Cardiff University # your organization as appears in the subdomain
+# academia_edu: cardiff.academia.edu/GuillaumeCandela
+# organization: Cardiff University # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -24,7 +24,7 @@ facebook_id: guillaume.candela.5 # your facebook id
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: guillaume-candela-0446201a # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
