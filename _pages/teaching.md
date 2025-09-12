@@ -112,7 +112,8 @@ My teaching experience spans over 15 years across six countries, covering coloni
       <div class="card-body">
         <div class="row">
           <div class="col-md-4">
-            <h6 class="card-title">Year 3 Courses</h6>
+            <h6 class="card-title">Module Leadership</h6>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 3</span>
             <ul class="small">
               <li>Early Modern Europe History</li>
               <li>Early Modern Latin America History</li>
@@ -120,14 +121,14 @@ My teaching experience spans over 15 years across six countries, covering coloni
             </ul>
           </div>
           <div class="col-md-4">
-            <h6 class="card-title">Year 2 Courses</h6>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 2</span>
             <ul class="small">
               <li>Early Modern Europe History</li>
               <li>Early Modern Latin America History</li>
             </ul>
           </div>
           <div class="col-md-4">
-            <h6 class="card-title">Year 1 Courses</h6>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 1</span>
             <ul class="small">
               <li>Writing in History</li>
               <li>Methodologies of History</li>
@@ -158,6 +159,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
         <div class="row">
           <div class="col-md-6">
             <h6 class="card-title">Courses Taught</h6>
+             <span class="badge" style="background-color: #e91e63; color: white;">Year 1,2 & 3</span>
             <ul>
               <li>French Language and Cultures</li>
               <li>French Listening Skills</li>
@@ -195,6 +197,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
         <div class="row">
           <div class="col-md-4">
             <h6 class="card-title">2014-2015 Academic Year</h6>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 1,2 & 3</span>
             <ul class="small">
               <li>LEA 20-1-2: Spanish-French Translation (5 groups, 1h/week each)</li>
               <li>LEA 45-1: History of Latin America - Revolutions 19th-20th c. (2 groups, 1h/week each)</li>
@@ -205,6 +208,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
           </div>
           <div class="col-md-4">
             <h6 class="card-title">2013-2014 Academic Year</h6>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 1,2 & 3</span>
             <ul class="small">
               <li>LEA 20-1-2: Spanish-French Translation (6 groups, 1h/week each)</li>
               <li>LEA 45-1: History of Latin America - Revolutions 19th-20th c. (2 groups, 1h/week each)</li>
@@ -214,6 +218,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
           </div>
           <div class="col-md-4">
             <h6 class="card-title">2012-2013 Academic Year</h6>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 1,2 & 3</span>
             <ul class="small">
               <li>LEA 20-1-2: Spanish-French Translation (6 groups, 1h/week each)</li>
               <li>LEA 30-1-2: French-Spanish Translation (2 groups, 1h/week each)</li>
@@ -244,12 +249,13 @@ My teaching experience spans over 15 years across six countries, covering coloni
           </div>
           <div class="col-md-4 text-md-end">
             <span class="badge bg-dark">2008-2009</span>
+            <span class="badge" style="background-color: #e91e63; color: white;">Year 1,2 & 3</span>
           </div>
         </div>
       </div>
       <div class="card-body">
         <h6 class="card-title">Course</h6>
-        <p>Latin American History Methodology (30% teaching load)</p>
+        <p>History Methodology (30% teaching load)</p>
       </div>
     </div>
   </div>
