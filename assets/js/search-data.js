@@ -483,20 +483,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-academia_edu',
-        title: 'Academia_edu',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-organization',
-        title: 'Organization',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
@@ -516,6 +502,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://facebook.com/guillaume.candela.5", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/guillaume-candela-0446201a", "_blank");
         },
       },{
       id: 'light-theme',
