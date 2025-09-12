@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Courses and educational activities spanning colonial Latin American history, Indigenous studies, digital humanities, and language instruction across multiple universities and countries.",
           section: "Navigation",
           handler: () => {
