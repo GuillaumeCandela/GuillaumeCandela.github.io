@@ -287,6 +287,7 @@ My teaching experience spans over 15 years across six countries, covering coloni
 </div>
 
 ### Core Teaching Areas
+
 <div class="row mt-3">
   <div class="col-md-6">
     <ul>
