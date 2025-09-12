@@ -2,96 +2,203 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Dr. Guillaume Candela
+    - name: Email
+      value: CandelaG@cardiff.ac.uk
     - name: Languages
-      value: English, German
+      value: French (native), Spanish (native), English (fluent), Portuguese (advanced), Guarani (intermediate), Catalan (intermediate), Italian (reading)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Hispanic and Latin American Studies
+      institution: Université Sorbonne-Nouvelle Paris III, France
+      year: 2009-2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Title: The Settlement of a marginal society - Letters and Actions of the clergy during the Conquest of Paraguay (1537-1580)'
+        - 'Director: Prof. Bernard Lavallé'
+    - title: MA in Hispanic and Latin American Studies
+      institution: Université Aix-Marseille, France
+      year: 2007-2009
       description:
-        - Description 1.
-        - Description 2.
+        - 'Title: The Conquest of Paraguay through Domingo Martínez de Irala\'s letters (1545-1555)'
+        - 'Director: Prof. Gérard Gomez'
+    - title: ERASMUS Student Exchange Program
+      institution: Universidad de Granada, Spain
+      year: 2005-2006
+    - title: BA in Hispanic and Latin American Studies
+      institution: Université Aix-Marseille, France
+      year: 2004-2007
+      description:
+        - Language, Literature, and Cultures specialization
+    - title: CLIR Postdoctoral Fellowship Summer Seminar
+      institution: Bryn Mawr College, PA, USA
+      year: 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Honorary Senior Research Fellow
+      institution: School of Geography and Planning, Cardiff University, UK
+      year: 2024-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed AHRC project proposal "Mapping Enslavement and Forced Labour in Colonial Latin America Using AI to Unveil Hidden Slavery Sites and Experiences" (under evaluation)
+        - Merging slavery studies with AI and data mining to transform colonial slavery research
+        - Focusing on hidden experiences of enslaved Indigenous, African and African-descended people in colonial Paraguay
+    - title: Research Associate Fellow
+      institution: Centre de recherches sur les mondes Américains (UMR 8168 CNRS), EHESS, France
+      year: 2024-Present
+    - title: Research Collaborator
+      institution: The New Spain Fleets Project, Lancaster University, UK
+      year: 2024-Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Spanish Palaeography and Digital Humanities expert
+        - Applying AI methods including Handwritten Text Recognition through Transkribus platform
+        - Colonial Latin American History expert specializing in Indigenous enslavement
+    - title: Research Associate Fellow
+      institution: Rebeliões, conflitos e resistências indígenas no espaço platino (1515-1630), UNILA, Brazil
+      year: 2023-Present
       description:
+        - CNPq/MCTI project coordinated by Dr. Tiago Bonato
+        - 24-month research project
+    - title: Visiting Research Fellow in Colonial Latin American History
+      institution: School of History, University of Leeds, UK
+      year: 2023-2024
+    - title: Senior Research Associate
+      institution: Native Bound Unbound Archive of Indigenous Slavery, School for Advanced Research, Santa Fé, New Mexico, USA
+      year: 2022-2024
+      description:
+        - Created open-source central repository on enslaved Indigenous Peoples in the Americas
+        - Worked with archival material from Rio de la Plata Basin (16th-17th centuries)
+        - Mellon Foundation Grant $1,500,000 (36 months)
+    - title: Teaching Fellow in Colonial Latin American History
+      institution: School of History, University of Leeds, UK
+      year: 2022-2023
+      description:
+        - Module Leader for HIST3790 Gender and Slavery in Latin America
+        - Module Leader for HIST2090 Sin in Spanish America
+        - Undergraduate courses in Global Empires, Faith Knowledge and Power
+        - Graduate courses in Migration Histories and Approaches to Race
+    - title: Visiting Assistant Professor
+      institution: Université de Guyane, France
+      year: 2022
+      description:
+        - Early Modern Europe and Latin America History
+        - History and Geography for Teacher Preparation
+        - Writing methodologies and scientific text analysis
+    - title: Language Instructor
+      institution: Department of Modern Languages, Aberystwyth University, UK
+      year: 2020-2021
+      description:
+        - French Language and Cultures courses
+        - Curriculum revision and assessment
+    - title: CLIR Postdoctoral Fellow for Data Curation
+      institution: The John Carter Brown Library, Brown University, USA
+      year: 2019-2020
+      description:
+        - Created Latin American and Caribbean Indigenous Languages digital project
+        - Participated in development of new JCB Digital Platform
+        - Organized exhibitions and workshops on Indigenous Languages
+    - title: Ministry Counsellor
+      institution: Secretaría Nacional de Cultura del Paraguay, Asunción, Paraguay
+      year: 2017-2019
+      description:
+        - Cultural and patrimonial area consulting
+        - Led organization of UNESCO Indigenous Languages Year 2019 in Paraguay
+        - Organized international scholarly workshops and community meetings
+    - title: Principal Investigator and Ministry Counsellor
+      institution: Universidad San Ignacio de Loyola - Secretaría Nacional de Cultura del Paraguay
+      year: 2017-2018
+      description:
+        - Led research project "El Libro de Oro, un objeto patrimonial del Paraguay"
+        - Published articles on Early Colonial Paraguay History
+        - Led international agreements for National Archives improvement
+    - title: Assistant Professor (ATER)
+      institution: Université François-Rabelais Tours, France
+      year: 2012-2015
+      description:
+        - Spanish language and Latin American History courses
+        - Translation Spanish-French courses
+        - Curriculum development for Latin American Civilization
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Digital Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://drive.google.com/open?id=1BHf-9nZ6ugSN0uylvSr7rrxBKmaYg4SU&usp=sharing">Latin American and Caribbean Indigenous Languages at the JCB</a>
+      year: 2019-2020
+      description: Groundbreaking digital project reshaping international data curation standards for Indigenous materials
+    - title: <a href="https://www.facebook.com/profile.php?id=61556216985777">Indigenous Echoes</a>
+      year: 2024-Present
+      description: Social media initiative promoting Indigenous History with 5300+ followers across Facebook and Bluesky
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Scientific Consultant appointment by Paraguay's President for manuscript repatriation
+        - Personal recognition by President Santiago Peña Palacios
+    - year: 2018
       items:
-        - Max Planck Medal
+        - Book "Entre la pluma y la cruz" selected as best cultural item by El Tiempo de Bogotá (Colombia)
+    - year: 2019-2020
+      items:
+        - CLIR Postdoctoral Fellowship at Brown University
+    - year: 2022-2024
+      items:
+        - Mellon Foundation Grant ($1,500,000) for Native Bound Unbound project
 
-- title: Academic Interests
+- title: Academic Responsibilities
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Editorial Responsibilities
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Founder member and Editorial Committee, "Desde el Archivo - Kuatiá Renda" (2023)
+        - Scientific Journal of the National Archives of Paraguay
+    - title: External Evaluation
       items:
-        - Description 1.
-        - Description 2.
+        - Ph.D. dissertation evaluator (University of Norway, University of Liège)
+        - MA thesis evaluator (Universidad Autónoma Benito Juárez de Oaxaca, Mexico)
+        - Multiple Ph.D. project evaluations in Belgium and Norway
+    - title: Scientific Consulting
+      items:
+        - V-Dem (Varieties of Democracy) project consultant since 2014
+        - UNESCO Language Technologies expert (2019)
+        - Film and documentary consultant (2024)
+    - title: Professional Associations
+      items:
+        - UKLAH Committee Member (2023-2024)
+        - Communications Committee, Colonial Section of LASA (2022-Present)
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Colonial Latin American History
+      items:
+        - Early Colonial Paraguay (16th-19th centuries)
+        - Spanish colonialism and Indigenous resistance
+        - Rio de la Plata colonial society
+    - title: Indigenous Studies
+      items:
+        - Tupi-Guarani peoples and languages
+        - Indigenous slavery and forced labor systems
+        - Decolonizing historical methodologies
+    - title: Digital Humanities
+      items:
+        - AI-driven historical analysis
+        - Handwritten Text Recognition (HTR)
+        - Spanish paleography and manuscript digitization
+        - Spatial analysis of historical data
+    - title: Social History
+      items:
+        - Gender and slavery in Latin America
+        - Afro-Paraguayan history
+        - Women's history in colonial contexts
+        - Missionary linguistics and religious history
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Community Engagement:</u> Indigenous community collaboration, UNESCO cultural preservation, manuscript repatriation
+    - <u>Languages:</u> Multilingual research across five languages, translation and interpretation studies
+    - <u>Public Scholarship:</u> Social media outreach through Indigenous Echoes, popular writing for Latin American newspapers
