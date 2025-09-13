@@ -2,7 +2,7 @@
 layout: page
 title: Indigenous Echoes
 description: Social media initiative promoting Indigenous history and decolonizing historical narratives
-img: assets/img/indigenous_echoes_banner.png
+img: assets/img/Indigenous_echoes_banner.png
 importance: 1
 category: work
 related_publications: false
@@ -12,7 +12,7 @@ Indigenous Echoes is a dynamic social media initiative I launched in 2024 to bri
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Urutauu.jpeg" title="Picture of an Urutau" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Urutau.jpeg" title="Picture of an Urutau" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Mandi_2.jpeg" title="Picture of a 16th C. document" class="img-fluid rounded z-depth-1" %}
