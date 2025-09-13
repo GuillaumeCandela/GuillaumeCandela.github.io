@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Courses and educational activities spanning colonial Latin American history, Indigenous studies, digital humanities, and language instruction across multiple universities and countries.
 nav: true
 nav_order: 6
