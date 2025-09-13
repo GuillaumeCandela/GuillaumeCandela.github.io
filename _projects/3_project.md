@@ -86,6 +86,7 @@ My specific contribution focused on the Rio de la Plata Basin during the 16th an
 ## Methodological Innovation
 
 The project pioneered approaches for:
+
 - **Ethical Digital Archives**: Balancing academic access with Indigenous data sovereignty
 - **Incomplete Record Management**: Developing systems that acknowledge gaps and uncertainties in historical documentation
 - **Community-Academic Partnerships**: Creating sustainable collaboration models between universities and Indigenous communities
