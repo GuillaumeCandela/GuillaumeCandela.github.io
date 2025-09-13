@@ -31,10 +31,10 @@ Native Bound Unbound addresses a critical gap in historical scholarship by cente
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/NBU_presentation.png" title="INBU project presentation in Asuncion" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nbu_presentation.png" title="INBU project presentation in Asuncion" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/famillia.png" title="Genealogical tree of the Yamanday family" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/familia.png" title="Genealogical tree of the Yamanday family" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
