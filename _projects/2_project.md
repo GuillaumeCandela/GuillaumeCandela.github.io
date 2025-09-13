@@ -74,7 +74,8 @@ Indigenous Echoes transforms complex historical research into accessible content
 - **Community Moderation**: Culturally-responsive moderation ensuring respectful dialogue
 
 **Follow Indigenous Echoes**:
+
 - [Facebook](https://www.facebook.com/profile.php?id=61556216985777)
 - [Bluesky](https://bsky.app/profile/indigenousechoes.bsky.social)
 
-This project demonstrates how academic research can be transformed into accessible public education that serves social justice goals. By leveraging social media's reach and engagement potential, Indigenous Echoes creates new pathways for historical knowledge that challenge dominant narratives and amplify marginalized voices. The initiative represents a practical application of decolonizing methodologies in the digital age, proving that rigorous scholarship and public accessibility can work hand in hand {% cite candela_whats_2023 %}.
+This project demonstrates how academic research can be transformed into accessible public education that serves social justice goals. By leveraging social media's reach and engagement potential, Indigenous Echoes creates new pathways for historical knowledge that challenge dominant narratives and amplify marginalized voices. The initiative represents a practical application of decolonizing methodologies in the digital age, proving that rigorous scholarship and public accessibility can work hand in hand.
