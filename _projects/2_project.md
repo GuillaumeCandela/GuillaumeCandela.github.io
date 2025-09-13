@@ -2,27 +2,27 @@
 layout: page
 title: Indigenous Echoes
 description: Social media initiative promoting Indigenous history and decolonizing historical narratives
-img: assets/img/indigenous_echoes_banner.jpeg
-importance: 2
+img: assets/img/indigenous_echoes_banner.png
+importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Indigenous Echoes is a dynamic social media initiative I launched in 2024 to bridge the gap between academic research and public understanding of Indigenous history in Latin America. With over 5,300 followers across Facebook and Bluesky, this project demonstrates how digital platforms can serve as powerful tools for decolonizing historical narratives and promoting Indigenous voices.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Mandi_2.jpeg" title="Picture of a 16th C. document" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Urutauu.jpeg" title="Picture of an Urutau" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Urutaú.jpeg" title="Picture of an Urutau" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Mandi_2.jpeg" title="Picture of a 16th C. document" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Toba.jpeg" title="A page from Montoya Tesoro de la lingua guarani" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Archival materials shared with detailed historical context. Center: A picture of an Urutaú. Right: Rare A page of Motoya Tesoro de la Lengua Guaraini.
+    Left: Archival materials shared with detailed historical context. Center: A picture of an Urutaú. Right: A page of Motoya Tesoro de la Lengua Guaraini.
 </div>
 
 ## Mission and Impact
