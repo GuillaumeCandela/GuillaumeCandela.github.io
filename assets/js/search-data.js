@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Social media initiative promoting Indigenous history and decolonizing historical narratives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-native-bound-unbound-archive-of-indigenous-slavery",
+          title: 'Native Bound Unbound - Archive of Indigenous Slavery',
+          description: "Creating an open-source central repository focused on the lives of enslaved Indigenous Peoples in the Americas",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
