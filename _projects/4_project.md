@@ -5,7 +5,7 @@ description: Applying Artificial Intelligence to three centuries of socioeconomi
 img: assets/img/barcos-8.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 As Research Collaborator with Lancaster University's New Spain Fleets project since May 2024, I contribute expertise in Spanish paleography, digital humanities, and Colonial Latin American history to this cutting-edge initiative that applies Artificial Intelligence methods to analyze two centuries of colonial documentation.
@@ -38,7 +38,7 @@ This interdisciplinary project combines advanced AI technologies with traditiona
 
 ## Research Focus Areas
 
-**Indigenous Enslavement Documentation**: Applying AI analysis to identify references to Indigenous forced labor within fleet records, contributing to broader understanding of colonial slavery systems {% cite candela_marginalidad_2020 %}.
+**Indigenous Enslavement Documentation**: Applying AI analysis to identify references to Indigenous forced labor within fleet records, contributing to broader understanding of colonial slavery systems.
 
 **Economic Network Mapping**: Using computational methods to trace trade relationships, cargo manifests, and financial transactions across the Atlantic world.
 
