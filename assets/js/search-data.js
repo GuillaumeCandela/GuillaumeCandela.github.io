@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-will-participate-to-the-next-schmidt-sciences-havi-convening-in-paris",
+          title: 'I will participate to the next Schmidt ScienceS HAVI convening in Paris',
           description: "",
           section: "News",},{id: "projects-latin-american-and-caribbean-indigenous-languages-at-the-jcb",
           title: 'Latin American and Caribbean Indigenous Languages at the JCB',
