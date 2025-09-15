@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-As Research Collaborator with Lancaster University's New Spain Fleets project since May 2024, I contribute expertise in Spanish paleography, digital humanities, and Colonial Latin American history to this cutting-edge initiative that applies Artificial Intelligence methods to analyze two centuries of colonial documentation.
+As Research Collaborator with Lancaster University's New Spain Fleets project led by Professor Patricia Murrieta-Flores since May 2024, I contribute expertise in Spanish paleography, digital humanities, and Colonial Latin American history to this cutting-edge initiative that applies Artificial Intelligence methods to analyze two centuries of colonial documentation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +19,7 @@ As Research Collaborator with Lancaster University's New Spain Fleets project si
     </div>
 </div>
 <div class="caption">
-    Left: The Transkribus platform interface showing HTR training models. Right: A reproduction of a 17th C. Spanish Galeon.
+    Left: The Transkribus platform interface showing HTR training models. Right: A reproduction of a 17th C. Spanish Galeon in the port of Portsmouth.
 </div>
 
 ## Project Scope and Innovation
@@ -48,10 +48,11 @@ This interdisciplinary project combines advanced AI technologies with traditiona
 
 ### Collaborative Framework
 
-Working within an international research team that includes:
+Working within an international research team from Mexico, UK, Spain and Portugal that includes:
 
 - AI specialists developing HTR models
 - Colonial historians providing contextual expertise
+- Linguist and specialist of Nahuatl
 - Digital humanities researchers designing analytical frameworks
 - Archivists ensuring ethical access to historical materials
 
