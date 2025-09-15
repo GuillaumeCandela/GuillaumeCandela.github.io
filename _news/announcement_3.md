@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will participate to the next Schmidt ScienceS HAVI convening in Paris
+I have been invited to the next Schmidt Sciences Humanities and AI Virtuall Intitute [HAVI](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/) workshop in Paris
