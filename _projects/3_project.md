@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-From October 2022 to December 2024, I served as Senior Research Associate for the Native Bound Unbound: Archive of Indigenous Slavery project, a $1.5 million Mellon Foundation-funded initiative housed at the School for Advanced Research in Santa Fé, New Mexico. This groundbreaking project created the first comprehensive open-source repository documenting the experiences of enslaved Indigenous peoples across the Americas.
+From October 2022 to December 2024, I served as Senior Research Associate for the Native Bound Unbound: Archive of Indigenous Slavery project, a $1.5 million Mellon Foundation-funded initiative led by Dr Estevan Rael-Galvez and housed at the School for Advanced Research in Santa Fé, New Mexico. This groundbreaking project created the first comprehensive open-source repository documenting the experiences of enslaved Indigenous peoples across the Americas.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,7 +22,7 @@ From October 2022 to December 2024, I served as Senior Research Associate for th
     </div>
 </div>
 <div class="caption">
-    Left: The archive's user interface designed for accessibility and community use. Center: 16th-17th century documents from the Rio de la Plata Basin. Right: Database structure showing interconnected records of enslaved individuals.
+    Left: The archive's user interface designed for accessibility and community use. Center: 16th-century document from the Rio de la Plata Basin. Right: Database structure on Google Drive showing records of enslavers and enslaved individuals.
 </div>
 
 ## Project Mission and Scope
@@ -53,11 +53,11 @@ Native Bound Unbound addresses a critical gap in historical scholarship by cente
 
 ## Rio de la Plata Specialization
 
-My specific contribution focused on the Rio de la Plata Basin during the 16th and 17th centuries, a region where Indigenous slavery has been historically understudied despite extensive documentation. This work built upon my doctoral research and previous publications on colonial Paraguay.
+My specific contribution focused on the Rio de la Plata Basin during the 16th and 17th centuries, a region where Indigenous slavery has been historically understudied despite extensive documentation. This work built upon my doctoral research and previous publications on early colonial Paraguay.
 
 ### Key Research Areas
 
-**Urban Indigenous Slavery**: Documenting enslaved Indigenous peoples in early colonial cities like Asunción, Buenos Aires, and Santa Fe, challenging narratives that located Indigenous slavery only in frontier regions.
+**Urban Indigenous Slavery**: Documenting enslaved Indigenous peoples in early colonial cities of Rio de la Plata like Asuncion, Villarrica, Buenos Aires, Corrientes, and Santa Fe, challenging narratives that located Indigenous slavery only in frontier regions.
 
 **Legal Documentation**: Analyzing wills, sales records, and legal proceedings that provide rare glimpses into the lived experiences of enslaved individuals.
 
