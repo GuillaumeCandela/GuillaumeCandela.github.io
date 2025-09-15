@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Indigenous Echoes is a dynamic social media initiative I launched in 2024 to bridge the gap between academic research and public understanding of Indigenous history in Latin America. With over 5,300 followers across Facebook and Bluesky, this project demonstrates how digital platforms can serve as powerful tools for decolonizing historical narratives and promoting Indigenous voices.
+Indigenous Echoes - Rio de la Plata is a dynamic social media initiative I launched in 2024 to bridge the gap between academic research and public understanding of Indigenous history in Latin America. With over 5,300 followers across Facebook and Bluesky, this project demonstrates how digital platforms can serve as powerful tools for decolonizing historical narratives and promoting Indigenous voices and echoes.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,12 +22,12 @@ Indigenous Echoes is a dynamic social media initiative I launched in 2024 to bri
     </div>
 </div>
 <div class="caption">
-    Left: Archival materials shared with detailed historical context. Center: A picture of an Urutaú. Right: A page of Motoya Tesoro de la Lengua Guaraini.
+    Left: A picture of a bird named in Guarani Urutau. Center: A list of Indigenous People of Paraguay enslaved in a 16th-century manuscript. Right: Entries of the word toba in the Montoya Tesoro de la Lengua Guarani book.
 </div>
 
 ## Mission and Impact
 
-Indigenous Echoes transforms complex historical research into accessible content that challenges colonial narratives and centers Indigenous perspectives. The initiative serves multiple audiences: academic researchers, Indigenous communities, students, and the general public interested in learning about the hidden histories of the Americas.
+Indigenous Echoes - Rio de la Plata transforms complex historical research into accessible content that challenges colonial narratives and centers Indigenous perspectives. The initiative serves multiple audiences: academic researchers, Indigenous communities, students, and the general public interested in learning about the hidden histories of the Americas.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,22 +38,22 @@ Indigenous Echoes transforms complex historical research into accessible content
     </div>
 </div>
 <div class="caption">
-    Community engagement demonstrates the public hunger for accessible Indigenous history content, with posts regularly reaching thousands of users across platforms.
+    Community engagement demonstrates the public's hunger for accessible Indigenous History content, with posts regularly reaching thousands of users across platforms.
 </div>
 
 ### Content Strategy
 
-**Historical Document Sharing**: Regular posts featuring rare 16th-17th century manuscripts, maps, and illustrations from archives across Latin America, always with detailed historical context and Indigenous perspectives {% cite candela_paraguay_2024 %}.
+**Historical Document Sharing**: Regular posts featuring rare 16th-17th century manuscripts, maps, and illustrations from archives across Latin America, always with detailed historical context and Indigenous perspectives.
 
 **Myth-Busting**: Challenging romanticized colonial narratives by presenting evidence-based accounts of Indigenous resistance, survival, and cultural continuity.
 
-**Community Voices**: Amplifying contemporary Indigenous scholars, activists, and community leaders who are reclaiming their historical narratives.
+**Community Voices**: Engaging with contemporary Indigenous and Latin American scholars, activists, and community leaders who are reclaiming their historical narratives.
 
-**Educational Series**: Multi-part posts exploring complex topics like the encomienda system, Indigenous slavery, and colonial resistance movements.
+**Educational Series**: Multi-part posts exploring complex topics like the encomienda system, forced migrations, Indigenous slavery, and colonial resistance movements.
 
 ## Platform-Specific Approaches
 
-**Facebook Strategy**: Long-form educational posts with high-quality images of historical documents, maps, and artifacts. The platform's broader reach allows for deep engagement with diverse audiences, including Indigenous community members and history enthusiasts.
+**Facebook Strategy**: Long-form educational posts with high-quality images of historical documents, fauna and flora pictures, maps, and artifacts. The platform's broader reach allows for deep engagement with diverse audiences, including Indigenous community members and history enthusiasts.
 
 **Bluesky Innovation**: Academic discussion threads that connect historical research with contemporary social justice issues. The platform's more scholarly audience engages with complex theoretical discussions about decolonizing methodology and Indigenous epistemology.
 
@@ -61,7 +61,7 @@ Indigenous Echoes transforms complex historical research into accessible content
 
 - **Audience Growth**: Over 5,300 followers across platforms within the first year
 - **Academic Recognition**: Cited by scholars as an example of effective public history communication
-- **Community Impact**: Direct messages from Indigenous community members expressing gratitude for visibility
+- **Community Impact**: Direct messages from Indigenous and Latin American community members expressing gratitude for visibility
 - **Educational Reach**: Posts used in university courses across multiple countries
 - **Media Attention**: Featured in academic discussions about digital humanities and public engagement
 
@@ -69,6 +69,7 @@ Indigenous Echoes transforms complex historical research into accessible content
 
 - **Content Management**: Custom scheduling system ensuring consistent multi-platform posting
 - **Image Optimization**: High-resolution archival scans formatted for social media consumption
+- **Multilingualism**: Multilingual posts in Spanish and English reaching diverse communities and audiences
 - **Hashtag Strategy**: Multilingual tags reaching Spanish, English, Portuguese, and Indigenous language communities
 - **Analytics Tracking**: Comprehensive engagement metrics inform content strategy evolution
 - **Community Moderation**: Culturally-responsive moderation ensuring respectful dialogue
@@ -78,4 +79,4 @@ Indigenous Echoes transforms complex historical research into accessible content
 - [Facebook](https://www.facebook.com/profile.php?id=61556216985777)
 - [Bluesky](https://bsky.app/profile/indigenousechoes.bsky.social)
 
-This project demonstrates how academic research can be transformed into accessible public education that serves social justice goals. By leveraging social media's reach and engagement potential, Indigenous Echoes creates new pathways for historical knowledge that challenge dominant narratives and amplify marginalized voices. The initiative represents a practical application of decolonizing methodologies in the digital age, proving that rigorous scholarship and public accessibility can work hand in hand.
+This project demonstrates how academic research can be transformed into accessible public education that serves academic and social justice goals. By leveraging social media's reach and engagement potential, Indigenous Echoes - Rio de la Plata creates new pathways for historical knowledge that challenge dominant narratives and amplify marginalized voices. The initiative represents a practical application of decolonizing methodologies in the digital age, proving that rigorous scholarship and public accessibility can work hand in hand.
