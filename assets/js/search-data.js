@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-participate-to-the-next-schmidt-sciences-havi-convening-in-paris",
-          title: 'I will participate to the next Schmidt ScienceS HAVI convening in Paris',
+            },},{id: "news-i-have-been-invited-to-the-next-schmidt-sciences-humanities-and-ai-virtuall-intitute-havi-workshop-in-paris",
+          title: 'I have been invited to the next Schmidt Sciences Humanities and AI Virtuall...',
           description: "",
           section: "News",},{id: "news-i-will-be-the-keynote-speaker-for-the-xxxv-coloquio-internacional-de-estudiantes-de-historia-de-la-pontificia-universidad-católica-del-perú-to-present-my-digital-project-latin-american-and-caribbean-indigenous-languages-at-the-john-carter-brown",
           title: 'I will be the keynote speaker for the ‘XXXV Coloquio Internacional de Estudiantes...',
