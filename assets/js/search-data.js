@@ -431,9 +431,9 @@ ninja.data = [{
           description: "Creating an open-source central repository focused on the lives of enslaved Indigenous Peoples in the Americas",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-new-spain-fleets-ai-driven-colonial-history",
+          title: 'New Spain Fleets - AI-Driven Colonial History',
+          description: "Applying Artificial Intelligence to three centuries of socioeconomic colonial history through advanced manuscript analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
