@@ -6,7 +6,7 @@ subtitle: <a href='#'>Cardiff University</a>. College of Arts, Humanities and So
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GuillaumeCandelaLibrary.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Glamorgan Building</p>
