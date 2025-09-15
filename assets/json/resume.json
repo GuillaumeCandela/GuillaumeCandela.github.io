@@ -5,7 +5,7 @@
     "image": "",
     "email": "CandelaG@cardiff.ac.uk",
     "url": "https://guillaumecandela.github.io/",
-    "summary": "Honorary Senior Research Fellow at Cardiff University specializing in early colonial Paraguay, Indigenous history, and AI-driven digital humanities. Expert in Spanish paleography with 15+ years of international research experience across six countries.",
+    "summary": "Honorary Senior Research Fellow at Cardiff University specializing in colonial Latin America, colonial Paraguay, Indigenous and Afro-Paraguayan history, and AI-driven digital humanities. Expert in Spanish paleography with 15+ years of international research experience across six countries.",
     "profiles": [
       {
         "network": "Facebook",
@@ -33,7 +33,7 @@
       "position": "Research Associate Fellow",
       "url": "https://www.ehess.fr/",
       "startDate": "2024-01-01",
-      "summary": "Research fellowship at leading French institution for advanced social science research.",
+      "summary": "Research fellowship at a leading French institution for advanced social science research.",
       "highlights": ["Advanced research collaboration", "International partnerships"]
     },
     {
@@ -50,7 +50,7 @@
       "url": "https://www.leeds.ac.uk/",
       "startDate": "2022-09-01",
       "endDate": "2023-08-31",
-      "summary": "Module Leader for Gender and Slavery in Latin America, and Sin in Spanish America. Taught undergraduate and graduate courses on colonial history.",
+      "summary": "Module Leader for Gender and Slavery in Latin America, and Sin in Spanish America. Taught undergraduate and graduate courses on colonial Latin America History.",
       "highlights": ["Course leadership", "Graduate teaching", "Paleography workshops"]
     },
     {
@@ -68,7 +68,7 @@
       "url": "https://www.brown.edu/academics/libraries/john-carter-brown/",
       "startDate": "2019-07-01",
       "endDate": "2020-08-31",
-      "summary": "Created groundbreaking Latin American and Caribbean Indigenous Languages digital project that reshaped international data curation standards.",
+      "summary": "Created groundbreaking Latin American and Caribbean Indigenous Languages digital project that offers access to one of the most voluminous repositories of Indigenous Languages manuscripts and books produced during the colonial period.",
       "highlights": ["Digital project creation", "International standards", "Indigenous language preservation"]
     },
     {
@@ -124,7 +124,7 @@
   "awards": [
     {
       "title": "Presidential Recognition for Manuscript Repatriation",
-      "date": "2024-01-01",
+      "date": "2025-08-20",
       "awarder": "President Santiago Peña Palacios, Republic of Paraguay",
       "summary": "Personal recognition by Paraguay's President for scientific consulting on repatriating stolen 16th-century manuscripts from the United States."
     },
@@ -198,6 +198,7 @@
         "Spanish Paleography",
         "Colonial Latin American History",
         "Indigenous History",
+        "Afro-Paraguayan History"
         "Archival Research",
         "Manuscript Analysis",
         "Primary Source Investigation"
@@ -272,7 +273,7 @@
   ],
   "projects": [
     {
-      "name": "Indigenous Echoes",
+      "name": "Indigenous Echoes - Rio de la Plata",
       "summary": "Social media initiative promoting Indigenous history and decolonizing historical narratives with 5,300+ followers across Facebook and Bluesky.",
       "highlights": ["Public engagement", "Social media strategy", "Historical education"],
       "startDate": "2024-01-01",
