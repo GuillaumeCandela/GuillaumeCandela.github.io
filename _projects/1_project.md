@@ -52,7 +52,7 @@ This comprehensive digital initiative catalogued and digitized hundreds of histo
     </div>
 </div>
 <div class="caption">
-    The project culminated in the "Paper Worlds of Native Voices" exhibition (left) and generated extensive educational materials for workshops on Indigenous languages (right).
+    The project culminated in the "Paper Worlds of Native Voices" exhibition and generated extensive educational materials for workshops on Indigenous languages (left and right).
 </div>
 
 ## Impact and Legacy
