@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-i-will-participate-to-the-next-schmidt-sciences-havi-convening-in-paris",
+            },},{id: "news-i-will-participate-to-the-next-schmidt-sciences-havi-convening-in-paris",
           title: 'I will participate to the next Schmidt ScienceS HAVI convening in Paris',
           description: "",
           section: "News",},{id: "news-i-will-be-the-keynote-speaker-for-the-xxxv-coloquio-internacional-de-estudiantes-de-historia-de-la-pontificia-universidad-católica-del-perú-to-present-my-digital-project-latin-american-and-caribbean-indigenous-languages-at-the-john-carter-brown",
           title: 'I will be the keynote speaker for the ‘XXXV Coloquio Internacional de Estudiantes...',
+          description: "",
+          section: "News",},{id: "news-i-will-give-the-paper-presentation-of-mapping-enslavement-and-forced-labor-in-colonial-latin-america-using-ai-to-unveil-hidden-slavery-sites-and-experiences-at-the-third-latin-american-amp-amp-caribbean-digital-humanities-symposium",
+          title: 'I will give the paper “Presentation of Mapping Enslavement and Forced Labor in Colonial...',
           description: "",
           section: "News",},{id: "projects-latin-american-and-caribbean-indigenous-languages-at-the-jcb",
           title: 'Latin American and Caribbean Indigenous Languages at the JCB',
