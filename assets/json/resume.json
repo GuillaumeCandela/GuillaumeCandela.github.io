@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Dr. Guillaume Candela",
-    "label": "Historical Researcher and Digital Humanist",
+    "label": "Historian and Digital Humanist",
     "image": "",
     "email": "CandelaG@cardiff.ac.uk",
     "url": "https://guillaumecandela.github.io/",
-    "summary": "Honorary Senior Research Fellow at Cardiff University specializing in colonial Latin America, colonial Paraguay, Indigenous and Afro-Paraguayan history, and AI-driven digital humanities. Expert in Spanish paleography with 15+ years of international research experience across six countries.",
+    "summary": "Honorary Senior Research Fellow at Cardiff University specializing in colonial Latin America, colonial Paraguay, Indigenous and Afro-Paraguayan History, and AI-driven Digital Humanities. Expert in Spanish Paleography with 15+ years of international research experience across six countries.",
     "profiles": [
       {
         "network": "Facebook",
@@ -25,8 +25,8 @@
       "position": "Honorary Senior Research Fellow",
       "url": "https://www.cardiff.ac.uk/geography-planning",
       "startDate": "2024-06-01",
-      "summary": "Developing the AHRC project proposal 'Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences' (under evaluation). Merging slavery studies with AI and data mining to transform colonial slavery research.",
-      "highlights": ["AI-driven historical analysis", "Colonial slavery research", "Digital humanities methodology"]
+      "summary": "Developing the AHRC project proposal 'Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences' (under evaluation).",
+      "highlights": ["Merging slavery studies with AI and data mining to transform colonial slavery research", "AI-driven historical analysis", "Colonial Latin America Slavery", "Digital Humanities"]
     },
     {
       "name": "Centre de recherches sur les mondes Américains (EHESS)",
@@ -42,7 +42,7 @@
       "url": "https://wp.lancs.ac.uk/newspainfleets/",
       "startDate": "2024-05-01",
       "summary": "Spanish Palaeography and Digital Humanities expert applying AI methods including Handwritten Text Recognition through Transkribus platform.",
-      "highlights": ["HTR technology", "Spanish paleography", "Colonial archive analysis"]
+      "highlights": ["HTR technology", "Spanish Paleography"]
     },
     {
       "name": "University of Leeds",
@@ -60,7 +60,7 @@
       "startDate": "2022-10-01",
       "endDate": "2024-12-31",
       "summary": "Created open-source central repository on enslaved Indigenous Peoples in the Americas. $1.5M Mellon Foundation Grant project.",
-      "highlights": ["$1.5M grant management", "Digital archive creation", "Indigenous community collaboration"]
+      "highlights": ["Indigenous Slavery", "Indigenous History Databases", "Colonial Rio de la Plata"]
     },
     {
       "name": "Brown University - John Carter Brown Library",
@@ -196,7 +196,7 @@
       "icon": "fa-solid fa-book",
       "keywords": [
         "Spanish Paleography",
-        "Colonial Latin American History",
+        "Colonial Latin America History",
         "Indigenous History",
         "Afro-Paraguayan History",
         "Archival Research",
