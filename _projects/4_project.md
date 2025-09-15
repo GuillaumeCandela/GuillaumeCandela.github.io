@@ -49,14 +49,16 @@ This interdisciplinary project combines advanced AI technologies with traditiona
 ### Collaborative Framework
 
 Working within an international research team that includes:
+
 - AI specialists developing HTR models
-- Colonial historians providing contextual expertise  
+- Colonial historians providing contextual expertise
 - Digital humanities researchers designing analytical frameworks
 - Archivists ensuring ethical access to historical materials
 
 ## Preliminary Findings
 
 Early analysis has revealed:
+
 - **Previously Unknown Networks**: AI identification of trade relationships not visible through traditional archival methods
 - **Enhanced Efficiency**: HTR models achieving 95%+ accuracy rates on trained document types
 - **Hidden Patterns**: Computational analysis revealing cyclical patterns in colonial administrative practices
@@ -70,7 +72,7 @@ Early analysis has revealed:
 - **Storage**: Secure cloud-based systems for sensitive archival materials
 - **Quality Control**: Human expert verification of AI transcriptions
 
-**Project Website**: [New Spain Fleets Lancaster University](https://wp.lancs.ac.uk/newspainfleets/?page_id=249&lang=en)
-**Paper**: [Publication of the HTR outcomes](https://www.tandfonline.com/doi/full/10.1080/20548923.2025.2484828)
+- **Project Website**: [New Spain Fleets Lancaster University](https://wp.lancs.ac.uk/newspainfleets/?page_id=249&lang=en)
+- **Paper**: [Publication of the HTR outcomes](https://www.tandfonline.com/doi/full/10.1080/20548923.2025.2484828)
 
 This collaboration demonstrates how AI technologies can accelerate historical research while maintaining scholarly rigor and ethical standards. By combining computational power with paleographic expertise, the project opens new possibilities for understanding colonial societies at unprecedented scale and granularity. The methodologies developed have applications beyond colonial Spanish America, offering models for AI-assisted historical research in other linguistic and temporal contexts.
