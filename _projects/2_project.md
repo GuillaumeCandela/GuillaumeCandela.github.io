@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Indigenous Echoes
+title: Indigenous Echoes - Rio de la Plata
 description: Social media initiative promoting Indigenous history and decolonizing historical narratives
 img: assets/img/Indigenous_echoes_banner.png
 importance: 1
