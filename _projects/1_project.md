@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-During my CLIR Postdoctoral Fellowship at the John Carter Brown Library (2019-2020), I developed this pioneering digital project that revolutionized how Indigenous language materials at the JCB are catalogued, preserved, and accessed. This initiative established new international standards for data curation of Indigenous materials and represents a landmark collaboration between academic institutions and Indigenous communities.
+During my CLIR Postdoctoral Fellowship at the John Carter Brown Library, Brown University (2019-2020), I developed this pioneering digital project that revolutionized how Indigenous language materials at the JCB are catalogued, preserved, and accessed. This initiative established new standards for data curation of Indigenous materials and tried to represent a landmark collaboration between academic institutions and Indigenous communities.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,12 +19,12 @@ During my CLIR Postdoctoral Fellowship at the John Carter Brown Library (2019-20
     </div>
 </div>
 <div class="caption">
-    Left: 16th-century manuscripts featuring Indigenous languages. Center: Geographic distribution of documented languages. Right: The innovative digital catalog interface developed for the project.
+    Left: Geographic origin of a 16th-century religious book featuring Andean Indigenous languages published in Lima, Peru, in 1584. Right: An amazing capture of the Juan de Tovar's codex conserved at the John Carter Brown Library.
 </div>
 
 ## Project Overview
 
-This comprehensive digital initiative catalogued and digitized hundreds of historical documents containing Indigenous languages from Latin America and the Caribbean, spanning from the 16th to the 19th centuries. The project was developed in close collaboration with Indigenous community members to ensure ethical and culturally appropriate data curation practices.
+This comprehensive digital initiative catalogued and digitized hundreds of historical documents containing Indigenous languages from Latin America and the Caribbean, spanning from the 16th to the 19th centuries. The project was developed in close collaboration with Indigenous scholars to ensure the use of ethical and culturally appropriate data curation practices.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -37,11 +37,11 @@ This comprehensive digital initiative catalogued and digitized hundreds of histo
 
 ### Key Innovations
 
-**Decolonizing Data Curation**: The project fundamentally challenged traditional archival practices by centering Indigenous perspectives in how materials are described, categorized, and accessed. Working directly with Indigenous community members, we developed new metadata standards that respect Indigenous epistemologies and naming conventions.
+**Decolonizing Data Curation**: The project fundamentally challenged traditional archival practices by centering Indigenous perspectives in how materials are described, categorized, and accessed. Working directly with Indigenous scholars, we developed new metadata standards that respect Indigenous epistemologies and naming conventions.
 
-**Multilingual Access**: Created search interfaces in multiple languages including Spanish, Portuguese, English, and several Indigenous languages, making these materials accessible to broader communities.
+**Multilingual Access**: Created search interfaces in multiple languages, including Spanish, Portuguese, English, and several Indigenous languages, making these materials accessible to broader communities.
 
-**Community Collaboration**: Established ongoing partnerships with Indigenous communities to ensure their voices guide how their ancestral languages are preserved and shared {% cite candela_melia_lenguas_2015 %}.
+**Community Collaboration**: Established ongoing partnerships with Indigenous communities to ensure their voices guide how their ancestral languages are preserved and shared.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -66,11 +66,9 @@ The project has had far-reaching impact on digital humanities practices globally
 
 ### Technical Specifications
 
-- **Platform**: Custom-built on Jekyll with integrated search capabilities
-- **Metadata Schema**: Developed culturally-responsive Dublin Core extensions
 - **Digitization**: High-resolution imaging with OCR for colonial manuscripts
-- **Access**: Open-access platform with community-controlled viewing permissions for sensitive materials
+- **Access**: Open-access platform with a geolocalization tool integrated into the Google Earth platform
 
 **Project Link**: [Access the Digital Collection](https://drive.google.com/open?id=1BHf-9nZ6ugSN0uylvSr7rrxBKmaYg4SU&usp=sharing)
 
-This project represents a fundamental shift toward decolonizing digital humanities practices and demonstrates how technology can serve Indigenous communities in preserving and revitalizing their cultural heritage. The methodologies developed continue to influence digital curation practices globally, establishing new ethical standards for working with Indigenous materials in academic settings.
+This project represents a fundamental shift toward decolonizing digital humanities practices and demonstrates how technology can serve academic and Indigenous communities in preserving and revitalizing their cultural heritage. The methodologies developed continue to influence digital curation practices globally, establishing new ethical standards for working with Indigenous materials in academic settings.
