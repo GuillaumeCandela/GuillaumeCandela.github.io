@@ -1,6 +1,7 @@
 ---
 layout: page
 title: project 7
+nav: false
 description: with background image
 img: assets/img/4.jpg
 importance: 1
