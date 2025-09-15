@@ -1,80 +1,76 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: New Spain Fleets - AI-Driven Colonial History
+description: Applying Artificial Intelligence to three centuries of socioeconomic colonial history through advanced manuscript analysis
+img: assets/img/barcos-8.jpg
+importance: 1
+category: work
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As Research Collaborator with Lancaster University's New Spain Fleets project since May 2024, I contribute expertise in Spanish paleography, digital humanities, and Colonial Latin American history to this cutting-edge initiative that applies Artificial Intelligence methods to analyze two centuries of colonial documentation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transkribus.png" title="Transkribus HTR platform" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/barco_spain.jpeg" title="16th-17th century fleet documents" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: The Transkribus platform interface showing HTR training models. Right: A reproduction of a 17th C. Spanish Galeon.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Project Scope and Innovation
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+This interdisciplinary project combines advanced AI technologies with traditional paleographic expertise to unlock previously inaccessible historical data from Spanish colonial archives. The initiative focuses on fleet documentation spanning three centuries, providing unprecedented insights into colonial socioeconomic networks, trade patterns, and social structures.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Technical Methodologies
 
-{% raw %}
+**Handwritten Text Recognition (HTR)**: Using Transkribus platform to develop specialized models for Spanish colonial scripts, enabling automated transcription of thousands of previously untranscribed documents.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+**Natural Language Processing**: Advanced text analysis to identify patterns in colonial terminology, trade relationships, and bureaucratic language evolution across three centuries.
 
-{% endraw %}
+**Corpus Linguistics**: Systematic analysis of linguistic patterns that reveal social hierarchies, economic relationships, and cultural exchanges in colonial contexts.
+
+**Machine Learning Integration**: Training algorithms to recognize specific document types, administrative categories, and recurring formulaic language in colonial bureaucracy.
+
+## Research Focus Areas
+
+**Indigenous Enslavement Documentation**: Applying AI analysis to identify references to Indigenous forced labor within fleet records, contributing to broader understanding of colonial slavery systems {% cite candela_marginalidad_2020 %}.
+
+**Economic Network Mapping**: Using computational methods to trace trade relationships, cargo manifests, and financial transactions across the Atlantic world.
+
+**Social Hierarchy Analysis**: Examining titles, occupations, and social markers in colonial documentation to understand class structures and mobility patterns.
+
+**Temporal Language Evolution**: Tracking changes in administrative language, legal terminology, and social categories across three centuries of colonial rule.
+
+### Collaborative Framework
+
+Working within an international research team that includes:
+- AI specialists developing HTR models
+- Colonial historians providing contextual expertise  
+- Digital humanities researchers designing analytical frameworks
+- Archivists ensuring ethical access to historical materials
+
+## Preliminary Findings
+
+Early analysis has revealed:
+- **Previously Unknown Networks**: AI identification of trade relationships not visible through traditional archival methods
+- **Enhanced Efficiency**: HTR models achieving 95%+ accuracy rates on trained document types
+- **Hidden Patterns**: Computational analysis revealing cyclical patterns in colonial administrative practices
+- **Cross-Reference Capabilities**: Automated identification of recurring names, places, and relationships across thousands of documents
+
+### Technical Infrastructure
+
+- **Platform**: Transkribus HTR with custom Spanish colonial models
+- **Data Processing**: Python-based analysis pipelines for text processing
+- **Visualization**: Network analysis tools for relationship mapping
+- **Storage**: Secure cloud-based systems for sensitive archival materials
+- **Quality Control**: Human expert verification of AI transcriptions
+
+**Project Website**: [New Spain Fleets Lancaster University](https://wp.lancs.ac.uk/newspainfleets/?page_id=249&lang=en)
+**Paper**: [Publication of the HTR outcomes](https://www.tandfonline.com/doi/full/10.1080/20548923.2025.2484828)
+
+This collaboration demonstrates how AI technologies can accelerate historical research while maintaining scholarly rigor and ethical standards. By combining computational power with paleographic expertise, the project opens new possibilities for understanding colonial societies at unprecedented scale and granularity. The methodologies developed have applications beyond colonial Spanish America, offering models for AI-assisted historical research in other linguistic and temporal contexts.
