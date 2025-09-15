@@ -419,8 +419,8 @@ ninja.data = [{
           description: "A digital project reshaping data curation standards for Indigenous materials",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-indigenous-echoes",
-          title: 'Indigenous Echoes',
+            },},{id: "projects-indigenous-echoes-rio-de-la-plata",
+          title: 'Indigenous Echoes - Rio de la Plata',
           description: "Social media initiative promoting Indigenous history and decolonizing historical narratives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
