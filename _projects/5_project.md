@@ -2,7 +2,7 @@
 layout: page
 title: Unlocking Hidden Histories: HTR for Colonial Paraguayan Archives
 description: A Schmidt Sciences HAVI Development Award project adapting AI to recover enslaved voices from colonial archives
-img: assets/img/ImageHAVI.png
+img: assets/img/havi_project_banner.png
 importance: 1
 category: work
 related_publications: true
@@ -32,7 +32,7 @@ This 5½-month pilot project (January–June 2026) tests whether existing HTR mo
 
 **Humanities Questions:**
 - How can computational transcription unlock the lived experiences of enslaved Indigenous and African descent people whose voices survive only in colonial Paraguayan manuscripts?
-- What ethical and methodological frameworks ensure that descendant and local communities benefit directly from renewed access to these archives?
+- What technical and methodological foundations are needed to eventually enable descendant and local communities to access and benefit from these archives?
 
 **AI Research Questions:**
 - How transferable are existing HTR models trained on 16th–17th-century Spanish sources to distinct regional hands, materials, and archival conditions?
@@ -44,74 +44,80 @@ This 5½-month pilot project (January–June 2026) tests whether existing HTR mo
     </div>
 </div>
 <div class="caption">
-    Using Transkribus platform to develop custom HTR models adapted to Paraguayan colonial manuscripts, targeting >85% Character Error Rate accuracy.
+    Using Transkribus platform to develop custom HTR models adapted to Paraguayan colonial manuscripts, targeting greater than 85% Character Error Rate accuracy.
 </div>
 
 ## Methodology and Approach
 
-### Phase 1: Corpus Curation & Setup (January–February 2026)
-- Select 165 representative documents (~41,000 pages) covering six handwriting styles
+### Phase 1: Corpus Curation and Setup (January–February 2026)
+- Select 165 representative documents (approximately 41,000 pages) covering six handwriting styles
 - Catalogue and prepare metadata in collaboration with ANA archivists
 - Initial coordination workshop with Cardiff University, AmoxcAI-Lab, and ANA teams
 
-### Phase 2: Model Training & Testing (February–April 2026)
+### Phase 2: Model Training and Testing (February–April 2026)
 - Fine-tune New Spain Fleets HTR models using my 6,000-page transcription corpus as ground truth
 - Benchmark baseline versus adapted models across different calligraphic styles
 - Quantify performance metrics and processing times
 
-### Phase 3: Evaluation & Documentation (April–June 2026)
+### Phase 3: Evaluation and Documentation (April–June 2026)
 - Compile open datasets with full technical documentation
 - Final hybrid workshop presenting results to academic and archival communities
-- Develop scaling strategy for larger funding applications
+- Develop scaling strategy for larger funding applications, including community engagement frameworks
 
 ### Technical Specifications
 
 **Platform**: Transkribus - leading HTR platform for historical document transcription  
-**Target Accuracy**: ≥85% Character Error Rate (CER)  
+**Target Accuracy**: Greater than or equal to 85% Character Error Rate (CER)  
 **Training Data**: 6,000 pages of manually transcribed colonial manuscripts  
 **Corpus Size**: 165 documents representing diverse paleographic conditions  
 **Handwriting Styles**: Six colonial Spanish calligraphic styles (procesal encadenada, cortesana, etc.)
 
 ## Collaborative Research Model
 
-This project is built on genuine dialogue between disciplines and communities. Humanists and AI specialists work side by side to test and refine models, combining historical insight with computational analysis to ensure every technical decision remains grounded in the archival and cultural realities of colonial Paraguay.
+This development award focuses on establishing the technical proof-of-concept through close collaboration between humanists and AI specialists. The team works side by side to test and refine models, combining historical insight with computational analysis to ensure every technical decision remains grounded in the archival and cultural realities of colonial Paraguay.
 
-**Key Partners:**
+**Current Project Partners:**
 
 **Archivo Nacional de Asunción (Paraguay)**: ANA paleographer Elizabeth Barriocanal and archival staff serve as co-curators, guiding document selection, validating transcriptions, and ensuring the workflow integrates into long-term preservation practices. Their direct involvement guarantees the project strengthens local expertise and avoids extractive collaboration dynamics.
 
 **AmoxcAI-Lab (Tecnológico de Monterrey)**: Professor Patricia Murrieta-Flores leads AI model adaptation, leveraging infrastructure and expertise from The New Spain Fleets project, which successfully developed HTR models for 16th–17th-century Mexican colonial documents.
 
-**Afro-Paraguayan and Indigenous Communities**: Community representatives advise on questions of accessibility, interpretation, and dissemination, ensuring recovered materials are not only digitally legible but also socially and ethically meaningful—returning voices from the archive to the communities to whom they belong.
+**Cardiff University**: Provides institutional support and expertise in colonial Latin American history, Indigenous studies, and digital humanities methodologies.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/havi_collaboration.jpg" title="Community engagement workshop" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/havi_collaboration.jpg" title="Technical workshop" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Bilingual workshops with ANA staff and community partners ensure knowledge transfer and sustainable digital capacity building.
+    Bilingual technical workshops with ANA staff ensure knowledge transfer and sustainable digital capacity building within Paraguay's national archive.
 </div>
 
 ## Expected Impact
 
 ### Advancing AI Research
+
 Colonial manuscripts represent among the most complex materials for automated reading: irregular handwriting, unstable orthography, physical deterioration, and code-switching. Testing model transfer across such conditions contributes new insights into domain generalization and low-resource adaptation—core unsolved problems in machine learning. The project provides empirical data on training-set thresholds, model degradation under damage, and accuracy variation across calligraphic styles, informing broader AI applications requiring handwriting recognition in challenging conditions.
 
 ### Advancing Humanities Research
-Reliable HTR transforms what can be known about slavery and Afro-Paraguayan and Indigenous life in colonial Paraguay by making hundreds of thousands of pages searchable and analyzable for the first time. Scholars will be able to trace individuals, families, and places across centuries, challenging the over-reliance on external metropolitan archives in Buenos Aires, Seville, and Rio de Janeiro.
+
+Reliable HTR transforms what can be known about slavery and Afro-Paraguayan and Indigenous life in colonial Paraguay by making hundreds of thousands of pages searchable and analyzable for the first time. Scholars will be able to trace individuals, families, and places across centuries, challenging the over-reliance on external metropolitan archives in Buenos Aires, Seville, and Rio de Janeiro. This technical foundation is essential for eventually creating accessible resources that can be shared with descendant communities.
 
 ### Building Global South Digital Capacity
+
 By embedding model training and maintenance within the Archivo Nacional de Asunción, this project ensures knowledge transfer and sustainability. Open datasets and workflow documentation serve as templates for other under-resourced archives across Latin America, addressing both technological inequity (few Latin American archives benefit from custom AI models) and epistemic gaps by re-centering local documents within global research networks.
 
 ## Pathway to Scale
 
-With proof-of-concept established, this pilot positions us to pursue larger funding to:
+This development award establishes the technical proof-of-concept necessary to pursue larger funding. With demonstrated HTR viability, we will be positioned to:
+
 1. Process all 2,782 New Binding documents plus additional ANA collections
 2. Build public-facing database with interactive maps and biographical reconstructions
 3. Develop comparative studies with Uruguayan, Brazilian, and Argentine slavery records
-4. Co-create educational resources with descendant communities
-5. Establish replicable workflows for other Global South archives
+4. **Establish meaningful partnerships with Afro-Paraguayan and Indigenous communities** to co-create educational resources, ensure culturally appropriate interpretation and dissemination, and return these recovered voices to the communities to whom they belong
+5. Create replicable workflows for other Global South archives
+
+The current technical phase lays essential groundwork, but the ultimate goal is community-engaged scholarship that serves both academic research and social justice outcomes.
 
 ## Data Preservation and Ethics
 
@@ -120,12 +126,12 @@ All datasets and derived materials will be stored using ethical, non-commercial 
 **Working Data**: Hetzner Storage Box (Germany)—GDPR-compliant, carbon-neutral infrastructure ensuring data sovereignty  
 **Final Datasets**: Zenodo (CERN/OpenAIRE)—persistent DOIs, FAIR compliance, free open access under EU governance
 
-This combination guarantees sustainability while adhering to principles of transparency, equity, and environmental responsibility.
+This combination guarantees sustainability while adhering to principles of transparency, equity, and environmental responsibility. Future scaling will incorporate additional ethical frameworks developed in consultation with descendant communities.
 
 ---
 
 **Funding**: Schmidt Sciences Humanities and AI Virtual Institute (HAVI) Development Award  
 **Duration**: January 1 – June 15, 2026  
-**Principal Investigators**: Dr. Guillaume Candela (Cardiff University) & Prof. Patricia Murrieta-Flores (Tecnológico de Monterrey / Lancaster University)
+**Principal Investigators**: Dr. Guillaume Candela (Cardiff University) and Prof. Patricia Murrieta-Flores (Tecnológico de Monterrey / Lancaster University)
 
-**Related Publications**: See my work on colonial Paraguay and digital humanities methodologies {% cite candela2024paraguay murrieta2025unlocking %}
+**Related Publications**: See my work on colonial Paraguay and digital humanities methodologies
