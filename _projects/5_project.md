@@ -50,7 +50,7 @@ This 5½-month pilot project (January–June 2026) tests whether existing HTR mo
 ## Methodology and Approach
 
 ### Phase 1: Corpus Curation and Setup (January–February 2026)
-- Select 165 representative documents (approximately 41,000 pages) covering six handwriting styles
+- Select 165 representative documents (thousands of pages) covering six handwriting styles
 - Catalogue and prepare metadata in collaboration with ANA archivists
 - Initial coordination workshop with Cardiff University, AmoxcAI-Lab (Mexico), and Paraguayan teams
 
