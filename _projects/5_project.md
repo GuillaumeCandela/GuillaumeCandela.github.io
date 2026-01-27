@@ -70,7 +70,7 @@ This 5½-month pilot project (January–June 2026) tests whether existing HTR mo
 **Target Accuracy**: Greater than or equal to 85% Character Error Rate (CER)  
 **Training Data**: 6,000 pages of manually transcribed colonial manuscripts  
 **Corpus Size**: 165 documents representing diverse paleographic conditions  
-**Handwriting Styles**: Six colonial Spanish calligraphic styles (procesal encadenada, Procesal, Cursiva, etc.)
+**Handwriting Styles**: Six colonial Spanish calligraphic styles (procesal, procesal encadenada, cortesana, cursiva, etc.)
 
 ## Collaborative Research Model
 
