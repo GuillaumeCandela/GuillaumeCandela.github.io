@@ -19,4 +19,4 @@ As a 2026 Schmidt Sciences Humanities and AI Virtual Institute (HAVI) Developmen
     </div>
 </div>
 <div class="caption">
-    Left: Example of 16th-century colonial handwriting from the Archivo Nacional de Asunción. Right: The New Binding Section contains 2,782 documents—some 200-400 pages long—that document slavery and Indigenous forced labor in colonial
+    Left: Example of 16th-century colonial handwriting from the Archivo Nacional de Asunción. Right: The Archivo Nacional de Asunción conserving the New Binding Section which contains 2,782 documents—some 200-400 pages long—that document slavery and Indigenous forced labor in colonial
