@@ -134,4 +134,5 @@ This combination guarantees sustainability while adhering to principles of trans
 **Duration**: January 1 – June 15, 2026  
 **Principal Investigators**: Dr. Guillaume Candela (Cardiff University) and Prof. Patricia Murrieta-Flores (Tecnológico de Monterrey / Lancaster University)
 
-**Related Publications**: See my work on colonial Paraguay and digital humanities methodologies
+**Related Publications**:
+This project builds upon methodologies developed through the [New Spain Fleets project](https://doi.org/10.1080/20548923.2025.2484828), which successfully demonstrated the viability of HTR models for 16th-17th century Spanish colonial documents from Mexico, achieving Character Error Rates as low as 5.25% for certain calligraphic styles.
