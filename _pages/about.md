@@ -22,7 +22,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
----
 
 I'm an Honorary Research Fellow at the [School of Global Humanities](https://www.cardiff.ac.uk/global-humanities), Cardiff University, where I intend to lead the AHRC project "Mapping Enslavement and Forced Labour in Colonial Latin America: Using AI to Unveil Hidden Slavery Sites and Experiences." I'm also a 2026 [Schmidt Sciences Humanities and AI Virtual Institute (HAVI) Development Award](https://www.schmidtsciences.org/humanities-and-ai-virtual-institute/) recipient, leading the project "Unlocking Hidden Histories: Adapting Handwritten Text Recognition for Colonial Paraguayan Archives" in collaboration with Professor Patricia Murrieta-Flores. Additionally, I'm affiliated with the [Centre de recherches sur les mondes Américains](https://www.ehess.fr/fr/mondes-am%C3%A9ricains) (EHESS, France) and collaborate with Lancaster University's [New Spain Fleets project](https://wp.lancs.ac.uk/newspainfleets/?page_id=249&lang=en) in training HTR models.
 
