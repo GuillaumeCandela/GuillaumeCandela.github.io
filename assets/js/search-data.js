@@ -437,8 +437,8 @@ ninja.data = [{
           description: "Applying Artificial Intelligence to three centuries of socioeconomic colonial history through advanced manuscript analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-unlocking-hidden-histories-htr-for-colonial-paraguayan-archives",
-          title: 'Unlocking Hidden Histories: HTR for Colonial Paraguayan Archives',
+            },},{id: "projects-recovering-hidden-histories-htr-for-colonial-paraguayan-archives",
+          title: 'Recovering Hidden Histories: HTR for Colonial Paraguayan Archives',
           description: "A Schmidt Sciences HAVI Development Award project adapting AI to recover enslaved voices from colonial archives",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
