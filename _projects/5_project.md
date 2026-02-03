@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Unlocking Hidden Histories: HTR for Colonial Paraguayan Archives"
+title: "Recovering Hidden Histories: HTR for Colonial Paraguayan Archives"
 description: "A Schmidt Sciences HAVI Development Award project adapting AI to recover enslaved voices from colonial archives"
 img: assets/img/ImageHAVI.png
 importance: 1
