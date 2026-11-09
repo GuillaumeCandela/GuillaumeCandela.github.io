@@ -1,14 +1,26 @@
-name: Check for broken links on site
+name: Axe accessibility testing
 
 on:
-  workflow_run:
-    workflows: [Deploy site]
-    types: [completed]
+  # if you want to run this on every push uncomment the following lines
+  # push:
+  #   branches:
+  #     - master
+  #     - main
+  # pull_request:
+  #   branches:
+  #     - master
+  #     - main
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL to be checked (e.g.: blog/)"
+        required: false
+
+env:
+  URL: ""
 
 jobs:
-  check-links-on-site:
-    # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-a-workflow-based-on-the-conclusion-of-another-workflow
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+  check:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -39,9 +51,24 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v1.9.0
+      - name: Get Chromium version 🌐
+        # https://github.com/GoogleChromeLabs/chrome-for-testing?tab=readme-ov-file#other-api-endpoints
+        run: |
+          CHROMIUM_VERSION=$(wget -qO- https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_STABLE | cut -d. -f1)
+          echo "Chromium version: $CHROMIUM_VERSION"
+          echo "CHROMIUM_VERSION=$CHROMIUM_VERSION" >> $GITHUB_ENV
+      - name: Setup Chrome 🌐
+        id: setup-chrome
+        uses: browser-actions/setup-chrome@v1
         with:
-          fail: true
-          # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          chrome-version: ${{ env.CHROMIUM_VERSION }}
+      - name: Install chromedriver 🚗
+        run: |
+          npm install -g chromedriver@$CHROMIUM_VERSION
+      - name: Run axe 🪓
+        # https://github.com/dequelabs/axe-core-npm/tree/develop/packages/cli
+        run: |
+          npm install -g @axe-core/cli
+          npm install -g http-server
+          http-server _site/ &
+          axe --chromedriver-path $(npm root -g)/chromedriver/bin/chromedriver http://localhost:8080/${{ github.event.inputs.url || env.URL }} --load-delay=1500 --exit
