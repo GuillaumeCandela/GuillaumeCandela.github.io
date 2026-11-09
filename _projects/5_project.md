@@ -31,10 +31,12 @@ This five-and-a-half-month pilot (1 January to 15 June 2026) tested whether exis
 ### Core Research Questions
 
 **Humanities Questions:**
+
 - How can computational transcription unlock the lived experiences of enslaved Indigenous and African descent people whose voices survive only in colonial Paraguayan manuscripts?
 - What technical and methodological foundations are needed to enable descendant and local communities to access and benefit from these archives?
 
 **AI Research Questions:**
+
 - How transferable are existing HTR models trained on 16th and 17th-century Spanish sources to distinct regional hands, materials, and archival conditions?
 - What volume and quality of training data are required for reliable performance across heterogeneous colonial calligraphies?
 
@@ -50,16 +52,19 @@ This five-and-a-half-month pilot (1 January to 15 June 2026) tested whether exis
 ## Methodology and Approach
 
 ### Phase 1: Corpus Curation and Setup (January–February 2026)
+
 - Selected 165 representative documents, running to several thousand pages, covering six handwriting styles
 - Catalogued and prepared metadata in collaboration with ANA archivists
 - Held an initial coordination workshop with Cardiff University, AmoxcAI-Lab (Mexico), and the Paraguayan team
 
 ### Phase 2: Model Training and Testing (February–April 2026)
+
 - Fine-tuned the New Spain Fleets HTR models against a 6,000-page transcription corpus used as ground truth
 - Benchmarked baseline against adapted models across calligraphic styles
 - Quantified performance metrics and processing times
 
 ### Phase 3: Evaluation and Documentation (April–June 2026)
+
 - Compiled open datasets with full technical documentation
 - Held a final hybrid workshop presenting results to academic and archival communities
 - Developed a scaling strategy for larger funding applications, including community engagement frameworks
